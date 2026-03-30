@@ -1,0 +1,8 @@
+{
+  "name": "ios-reminder-worker",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@pushforge/builder": "^1.0.0"
+  }
+}
